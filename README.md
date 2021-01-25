@@ -1,2 +1,5 @@
 # water-cli
-按照个人意愿搭建的基于webpack的脚手架@陈_鹏飞
+## git clone 该项目地址
+## npm i
+## npm linck  //创建本地连接
+## water -v  //出现版本号表示成功
